@@ -1,0 +1,40 @@
+body {
+				font-family: Arial; 
+				backgroud: #000000;
+				color: black; 
+						
+}
+.welcome{
+				color: #56f921;
+				font-size: 27px;
+}
+.head{
+				color: #ffffff;
+}
+.about{
+				color: #ffffff; 
+				font-size: 15px; 
+}
+.cool{
+				color: #ffffff;
+				font-size: 27px; 
+}
+.type{
+				color: #ffffff;
+}
+.top{
+				color: #ffffff;
+}
+ .top span{
+ 				color: red; 
+ 				font-size: 20px; 
+ }
+  .info{
+  				border:2px solid red; 
+  			padding: 20px; 			
+  }
+  b{color: red;}
+  img{
+  				width: 100%;
+  }
+  
